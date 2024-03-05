@@ -1,0 +1,9 @@
+command prompt:
+cd src
+msvcbuild.bat [debug] static
+msvcbuild.bat static
+iccbuild.bat static
+
+
+
+
